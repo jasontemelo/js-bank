@@ -16,7 +16,7 @@ html {
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Verdana', sans-serif;
   color: #444;
   background-color: #f3f3f3;
   height: 100vh;
@@ -155,7 +155,7 @@ nav {
 }
 
 .movements__type--deposit {
-  background-image: linear-gradient(to top left, #39b385, #9be15d);
+  background-image: linear-gradient(to top left, #2f5043, #9be15d);
 }
 
 .movements__type--withdrawal {
